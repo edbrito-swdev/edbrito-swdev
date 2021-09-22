@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edbrito-swdev
 - 👀 I’m interested in programming and arts (martial, music, graphical).
-- 🌱 I’m currently learning Go.
+- 🌱 I’m currently learning Chuck, DSP and Go.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 You can reach me at mail @ edbrito.pt
 
